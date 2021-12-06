@@ -1,0 +1,13 @@
+CRM/pages/AllContactPersonsPage.class
+CRM/pages/LoginPage.class
+CRM/pages/MainPage.class
+CRM/pages/CreateExpenseRequestPage.class
+CRM/pages/CreateContactPersonPage.class
+CRM/pages/NavigationMenu.class
+CRM/pages/Configuration.class
+CRM/pages/BaseView.class
+CRM/pages/CreateProjectPage.class
+CRM/pages/MyProjectsPage.class
+CRM/pages/ExpenseRequestsPage.class
+CRM/pages/BaseSetup.class
+CRM/pages/ExpensesSubMenu.class
